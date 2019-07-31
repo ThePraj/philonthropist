@@ -1,2 +1,0 @@
-# philonthropist
-Knowing GitHub
